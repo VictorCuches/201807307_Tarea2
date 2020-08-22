@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<tag_padre>
+    <tag_hijo id="Registro1">
+        <nombre>Victor</nombre>
+        <apellido>Cuches</apellido>
+        <edad>19</edad>
+        <pais>Guatemala</pais>
+    </tag_hijo>
+
+    <tag_hijo id="Registro2">
+        <nombre>Fernando</nombre>
+        <apellido>Castañon</apellido>
+        <edad>44</edad>
+        <pais>Bolivia</pais>
+    </tag_hijo>
+
+    <tag_hijo id="Registro3">
+        <nombre>Eduardo</nombre>
+        <apellido>Figueroa</apellido>
+        <edad>78</edad>
+        <pais>Argentina</pais>
+    </tag_hijo>
+    <tag_hijo id="Registro4">
+        <nombre>Felipe</nombre>
+        <apellido>Mendez</apellido>
+        <edad>12</edad>
+        <pais>Chile</pais>
+    </tag_hijo>
+</tag_padre>

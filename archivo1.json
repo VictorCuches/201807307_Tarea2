@@ -1,0 +1,26 @@
+[
+    {
+        "nombre": "Miguel",
+        "edad": 45,
+        "activo": true,
+        "promedio": 77.20
+    },
+    {
+        "nombre": "Gerardo",
+        "edad": 35,
+        "activo": false,
+        "promedio": 39.24
+    },
+    {
+        "nombre": "Mario",
+        "edad": 28,
+        "activo": true,
+        "promedio": 56.456
+    },
+    {
+        "nombre": "Federico",
+        "edad": 88,
+        "activo": true,
+        "promedio": 58.36
+    }
+]
